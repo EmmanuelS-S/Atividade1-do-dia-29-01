@@ -26,4 +26,5 @@
 ---
 
 4. **Conclusão**
+ 
   -O programa simula o funcionamento de um semáforo simples, alternando os LEDs automaticamente a cada 3 segundos sem necessidade de interação externa.   
